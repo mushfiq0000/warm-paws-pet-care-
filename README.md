@@ -25,9 +25,6 @@ The platform includes user authentication, password reset, service browsing, val
 
 ---
 
-
----
-
 ## 🚀 **Key Features**
 
 ### 🔐 **Authentication**
