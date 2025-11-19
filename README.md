@@ -18,6 +18,7 @@ The platform includes user authentication, password reset, service browsing, val
 
 ---
 
+## 🖼️ **Screenshot**
 <p align="center">
   <img src="./public/0.png" alt="Hero IO Screenshot" width="700"/>
 </p>
